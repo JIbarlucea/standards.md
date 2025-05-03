@@ -1,4 +1,4 @@
-# Estándares de Seguridad Infantil de Quedada_app_2
+# Estándares de Seguridad Infantil de Quedada_app
 
 **Última actualización:** 3 de mayo de 2025
 
@@ -21,4 +21,4 @@ Cumplimos con todas las leyes y regulaciones aplicables relacionadas con la prot
 
 Para más información, consulta nuestros [Términos de Servicio](#) y [Política de Privacidad](#).
 
-Si tienes alguna pregunta o deseas reportar un problema, contáctanos en [soporte@quedadaapp.com](mailto:soporte@quedadaapp.com).
+Si tienes alguna pregunta o deseas reportar un problema, contáctanos en [soporte@quedadaapp.com](mailto:quedadamail@gmail.com).
